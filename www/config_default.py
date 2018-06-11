@@ -14,7 +14,7 @@ config = {
 
 	},
 	'session' : {
-		'name' : 'L1pysession',
-		'secret': 'l1pylkusdfbjbisudfsad'
+		'name' : '**********',
+		'secret': '*********'
 	}
 }
